@@ -13,7 +13,7 @@ Se trata de uma página única que exibe um reprodutor de música em três estil
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="https://postimg.cc/2V7wJGSv" width="100%">
+  <img alt="calendario da copa" src="https://imgur.com/IOFTslY" width="100%">
 </p>
 
 ## 🚀 Tecnologias
