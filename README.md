@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página desenvolvida para ampliação dos estudos.
+Desenvolvido para ampliação dos estudos.
 
 ## 🔖 Layout
 
