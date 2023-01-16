@@ -13,7 +13,10 @@ Se trata de uma página única que exibe um reprodutor de música em três estil
 <br>
 
 <p align="center">
-  <img alt="Music player" src="https://i.imgur.com/IOFTslY.png)" width="100%">
+  <img alt="Music player" src="https://i.imgur.com/dOGen9u.png)" width="100%">
+  <img alt="Music player" src="https://i.imgur.com/T5BmdP6.png)" width="100%">
+  <img alt="Music player" src="https://i.imgur.com/9PDeYDI.png)" width="100%">
+  <img alt="Music player" src="https://i.imgur.com/8A7fy7w.png)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
