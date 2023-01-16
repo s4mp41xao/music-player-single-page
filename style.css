@@ -8,27 +8,15 @@
 }
 
 body {
-  /* Gradiente de cima para baixo */
   background: #353437; 
   background: -webkit-linear-gradient(bottom, #353437, #0C0C0D);
   background: -moz-linear-gradient(bottom, #353437, #0C0C0D);
   background: linear-gradient(to top, #353437, #0C0C0D);
-
-  /* Gradiente radial de cima para baixo */
-  /* background: #0C0C0D;
-  background: -webkit-radial-gradient(top, #0C0C0D, #353437);
-  background: -moz-radial-gradient(top, #0C0C0D, #353437);
-  background: radial-gradient(to bottom, #0C0C0D, #353437); */
-
   }
 
 body * {
   font-family: Roboto, sans-serif;
 }
-
-/* #app * {
-  border: 1px solid red;
-} */
 
 #app {
   display: grid;
@@ -43,7 +31,6 @@ body * {
   height: 100vh;
 }
 
-/*  Player 1 */
 #player-1 {
   grid-area: A;
   padding: 50px 38px;
@@ -65,49 +52,20 @@ body * {
   margin-top: 28px;
 }
 
-/* Player 2 */
 #player-2 {
   grid-area: B;
   height: fit-content;
 }
 
-/* Player 3 */
 #player-3 {
   grid-area: C;
 }
 
 .player {
-  /* Gradient básico duas cores */
-  /* background: #373439;
-  background: -webkit-linear-gradient(top, #373439, #3B3A3C);
-  background: -moz-linear-gradient(top, #373439, #3B3A3C);
-  background: linear-gradient(to bottom, #373439, #3B3A3C); */
-
-  /* Gradiente de baixo para cima */
-  /* background: #323237;
-  background: -webkit-linear-gradient(bottom, #323237, #636166);
-  background: -moz-linear-gradient(bottom, #323237, #636166);
-  background: linear-gradient(to top, #323237, #636166); */
-
-  /* Gradiente de baixo pra cima mais escuro em baixo */
-  /* background: #242427;
-  background: -webkit-linear-gradient(bottom, #242427, #636166);
-  background: -moz-linear-gradient(bottom, #242427, #636166);
-  background: linear-gradient(to top, #242427, #636166); */
-
-  /* Gradiente de baixo pra cima mais escuro em baixo v2 */
-  /* background: #29292D;
-  background: -webkit-linear-gradient(bottom, #29292D, #636166);
-  background: -moz-linear-gradient(bottom, #29292D, #636166);
-  background: linear-gradient(to top, #29292D, #636166); */
-
-  /* Gradiente de baixo pra cima mais escuro em baixo v3 */
   background: #222225;
   background: -webkit-linear-gradient(bottom, #222225, #636166);
   background: -moz-linear-gradient(bottom, #222225, #636166);
   background: linear-gradient(to top, #222225, #636166);
-  
-
   padding: 28px;
   border-radius: 10px;
 }
@@ -126,7 +84,7 @@ body * {
 }
 
 .info {
-  color: #E1E1E6; /* Color of the title of song*/
+  color: #E1E1E6;
 }
 
 .info h1 {
