@@ -14,7 +14,7 @@ Se trata de uma página única que exibe um reprodutor de música em três estil
 
 <p align="center">
   <img alt="Music player" src="https://i.imgur.com/dOGen9u.png)" width="100%">
-  <img alt="Music player" src="https://i.imgur.com/QzaocV5.png)" width="100%">
+  <img alt="Music player" src="https://i.imgur.com/QzaocV5.png)" width="50%">
 
 </p>
 
