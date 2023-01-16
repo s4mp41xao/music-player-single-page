@@ -1,4 +1,4 @@
-<h1 align="center"> Music Player </h1>
+<h1 align="center"> Reprodutor de música </h1>
 
 <p align="center">
 Se trata de uma página única que exibe um reprodutor de música em três estilos diferentes.
